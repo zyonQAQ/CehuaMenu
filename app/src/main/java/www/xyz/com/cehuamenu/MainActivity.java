@@ -42,7 +42,7 @@ public class MainActivity extends Activity {
     }
 
     private void initData() {
-        mStrings.add("111");
+        mStrings.add("1101");
         mStrings.add("18821");
         mStrings.add("19991");
         mStrings.add("141");
