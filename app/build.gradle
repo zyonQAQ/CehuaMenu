@@ -29,4 +29,5 @@ dependencies {
     compile project(':slidingmenu_library')
     compile project(':support')
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    implementation 'com.yanzhenjie.recyclerview:support:1.3.2'
 }
